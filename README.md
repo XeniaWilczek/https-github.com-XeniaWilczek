@@ -11,7 +11,7 @@ https://xeniawilczek.github.io/PortfolioWebsite/
 ---
 
 ### Mein Tech-Stack
-![Projekt-Vorschau](https://xeniawilczek.github.io/PortfolioWebsite/public/images/techs.png)
+![Projekt-Vorschau](https://xeniawilczek.github.io/PortfolioWebsite/images/techs.png)
 
 * **Sprachen:** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript (6.0)
 * **Frameworks & Libraries:** React.js, Tailwind CSS, Shadcn
