@@ -11,7 +11,7 @@ Mit meinem Master in Linguistik bringe ich hierfür die ideale Voraussetzungen m
 ---
 
 ### Mein Tech-Stack
-![Projekt-Vorschau](public/images/previewKanbanboard.png)
+![Projekt-Vorschau](https://xeniawilczek.github.io/PortfolioWebsite/public/images/techs.png)
 
 * **Sprachen:** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript (6.0)
 * **Frameworks & Libraries:** React.js, Tailwind CSS, Shadcn
