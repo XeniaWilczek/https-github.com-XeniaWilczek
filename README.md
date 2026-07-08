@@ -6,12 +6,12 @@ Ich habe an einer zertifizierten Weiterbildung im Bereich Frontend Web Developme
 Mit meinem Master in Linguistik bringe ich hierfür die ideale Voraussetzungen mit: Erkennen von Mustern und Zusammenhängen, strukturiertes Arbeiten, analytische Fähigkeiten.
 
 **Hier geht es zu meiner Portfolio-Website:** 
-[https://xeniawilczek.github.io/PortfolioWebsite/]
+https://xeniawilczek.github.io/PortfolioWebsite/
 
 ---
 
 ### Mein Tech-Stack
-![Projekt-Vorschau](https://xeniawilczek.github.io/PortfolioWebsite/public/images/techs.png)
+![Projekt-Vorschau](https://github.io)
 
 * **Sprachen:** HTML5, CSS3, SCSS, JavaScript (ES6+), TypeScript (6.0)
 * **Frameworks & Libraries:** React.js, Tailwind CSS, Shadcn
