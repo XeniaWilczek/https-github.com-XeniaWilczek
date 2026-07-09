@@ -3,7 +3,7 @@
 ### Frontend Web Developer mit linguistischem Hintergrund
 
 Ich habe an einer zertifizierten Weiterbildung im Bereich Frontend Web Development teilgenommen und mit Begeisterung die Sprache des Webs ergründet.
-Mit meinem Master in Linguistik bringe ich hierfür ideale Voraussetzungen mit: Erkennen von Mustern und Zusammenhängen, eine strukturierte Arbeitsweise und analytische Fähigkeiten.
+Mit meinem Master in Linguistik bringe ich hierfür ideale Voraussetzungen mit: Erkennen von Mustern und Zusammenhängen, eine strukturierte Arbeitsweise, analytische Fähigkeiten und ein Sinn für Optimierungen.
 
 **Hier geht es zu meiner Portfolio-Website:** 
 https://xeniawilczek.github.io/PortfolioWebsite/
