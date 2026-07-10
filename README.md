@@ -1,9 +1,7 @@
 # Hallo, ich bin Xenia Wilczek.
 
 ### Frontend Web Developer mit linguistischem Hintergrund
-
-Ich habe an einer zertifizierten Weiterbildung im Bereich Frontend Web Development teilgenommen und mit Begeisterung die Sprache des Webs ergründet.
-Mit meinem Master in Linguistik bringe ich hierfür ideale Voraussetzungen mit: Erkennen von Mustern und Zusammenhängen, eine strukturierte Arbeitsweise, analytische Fähigkeiten und ein Sinn für Optimierungen.
+Ich bin Frontend-Entwicklerin mit linguistischem Hintergrund. Ich verbinde meine analytischen Fähigkeiten und mein Gespür für Prozessoptimierung und Wissensvermittlung mit moderner Webentwicklung in React und TypeScript und habe zuletzt eine Fahrschul-App selbstständig konzipiert, gebaut und deployt, mit der man spielerisch die Verkehrsregeln üben kann. Jetzt suche ich nach einer Anstellung als Frontend-Entwicklerin und möchte und möchte mich dabei für die Optimierung von (Lern-)Prozessen einsetzen.
 
 **Hier geht es zu meiner Portfolio-Website:** 
 https://xeniawilczek.github.io/PortfolioWebsite/
